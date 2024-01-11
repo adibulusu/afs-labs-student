@@ -1,3 +1,4 @@
+-- comment to test pipeline
 --
 -- PostgreSQL database dump
 --
